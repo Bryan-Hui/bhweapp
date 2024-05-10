@@ -1,2 +1,2 @@
-<view class="index other">{{prop}}-{{flag}}</view>
+<!-- <view class="index other">{{prop}}-{{flag}}</view> -->
 <other></other>
